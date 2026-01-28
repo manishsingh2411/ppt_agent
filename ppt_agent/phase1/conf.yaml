@@ -1,0 +1,14 @@
+REASONING_MODEL:
+  model: "gemini-1.5-flash"
+  temperature: 0.1
+  google_api_key: "AIzaSyBK4OjFsGLq0efxPBmaO3rUNu6mqivD-uE"  # Replace with your actual API key
+
+BASIC_MODEL:
+  model: "gemini-1.5-flash"
+  temperature: 0.0
+  google_api_key: "AIzaSyBK4OjFsGLq0efxPBmaO3rUNu6mqivD-uE"  # Replace with your actual API key
+
+VISION_MODEL:
+  model: "gemini-1.5-flash"
+  temperature: 0.0
+  google_api_key: "AIzaSyBK4OjFsGLq0efxPBmaO3rUNu6mqivD-uE"  # Replace with your actual API key
